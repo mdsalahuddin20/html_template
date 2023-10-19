@@ -1,0 +1,41 @@
+.header{
+	height: 100px;
+	background-color: red;
+}
+.container{
+	overflow: hidden;
+}
+.blog{
+	width: 70%;
+	height: 100px;
+	background-color: blue;
+	float: left;
+}
+.content{
+	width: 30%;
+	height: 100px;
+	background-color: teal;
+	float: right;
+}
+.box{
+	float: left;
+	width: 33.33%;
+}
+.service{
+	height: 100px;
+	background-color: green;
+}
+.about{
+	height: 100px;
+
+	background-color: greenyellow;
+}
+.address{
+	height: 100px;
+
+	background-color: seagreen;
+}
+.footer{
+	height: 100px;
+	background-color: gray;
+}
